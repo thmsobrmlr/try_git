@@ -1,10 +1,12 @@
-# This is a H1
+This is a H1
+============
 
 This is some sample text. Some *cursive* and some **bold** text.
 
 ![This is the alt text](http://placehold.it/350x150)
 
-## This is a H2
+This is a H2
+------------
 
 This is [an example](http://example.com/ "Title") inline link with a title.
 
@@ -12,7 +14,7 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 
 > This is a blockquote
 >
-> With a sub-blockquote
+> > With a sub-blockquote
 
     This is a code block
     
